@@ -1,0 +1,40 @@
+const Sourcedata={
+    products:[
+        {
+          name:'Thums Up Soft Drink',
+          id:'121',
+          img:'ThumsSoft.png',
+          quantity:1,
+          price:40
+        },
+        {
+            name:'Limca',
+          id:'122',
+          img:'Limca.png',
+          quantity:1,
+          price:45
+        },
+        {
+            name:'Sprite',
+            id:'123',
+            img:'Sprite.png',
+            quantity:1,
+            price:50
+        },
+        {
+            name:'Schweppers',
+            id:'125',
+            img:'Schweppers.png',
+            quantity:1,
+            price:35
+        },
+        {
+            name:'Mirinda',
+            id:'125',
+            img:'mirinda.png',
+            quantity:1,
+            price:35
+        },
+    ]
+}
+export default Sourcedata;
